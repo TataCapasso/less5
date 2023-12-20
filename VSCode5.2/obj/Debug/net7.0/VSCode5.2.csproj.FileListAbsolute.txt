@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\VSCode5.2\bin\Debug\net7.0\VSCode5.2.exe
+C:\Users\user\Desktop\VSCode5.2\bin\Debug\net7.0\VSCode5.2.deps.json
+C:\Users\user\Desktop\VSCode5.2\bin\Debug\net7.0\VSCode5.2.runtimeconfig.json
+C:\Users\user\Desktop\VSCode5.2\bin\Debug\net7.0\VSCode5.2.dll
+C:\Users\user\Desktop\VSCode5.2\bin\Debug\net7.0\VSCode5.2.pdb
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\VSCode5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\VSCode5.2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\VSCode5.2.AssemblyInfo.cs
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\VSCode5.2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\VSCode5.2.dll
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\refint\VSCode5.2.dll
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\VSCode5.2.pdb
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\VSCode5.2.genruntimeconfig.cache
+C:\Users\user\Desktop\VSCode5.2\obj\Debug\net7.0\ref\VSCode5.2.dll
